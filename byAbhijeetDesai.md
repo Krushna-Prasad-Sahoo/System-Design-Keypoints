@@ -1,1 +1,4 @@
-3 Principles of Distributed Systems
+- 3 Principles of Distributed Systems :
+  - Single responsibility principle
+  - No single point of failure principle
+  - No bottleneck principle
