@@ -3,3 +3,5 @@
   - No single point of failure principle - The system should never have any component whose failure will result in the failure of the entire system.
 
   - No bottleneck principle - Since we design for scalability our system should not have performance bottlenecks. Ideally we should horizontally scale our system to handle the large amounts of processing.
+
+- 5 Step Guide for System Design :
