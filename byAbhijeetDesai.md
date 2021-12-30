@@ -5,4 +5,9 @@
   - No bottleneck principle - Since we design for scalability our system should not have performance bottlenecks. Ideally we should horizontally scale our system to handle the large amounts of processing.
 <br />
 
-- 5 Step Guide for System Design :
+- 5 Steps for System Design :
+  - Requirement analysis
+  - API design
+  - Define data model
+  - High level design
+  - Scale the design
