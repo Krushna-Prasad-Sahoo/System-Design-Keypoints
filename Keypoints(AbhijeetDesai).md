@@ -6,7 +6,7 @@
 <br />
 
 - 5 Steps for System Design :
-  - Requirement analysis
+  - Requirement analysis - Here we first discuss the functional requirements i.e. what this system should do. Then we discuss the non-functional requirements i.e. how the system should behave.
   - API design
   - Define data model
   - High level design
